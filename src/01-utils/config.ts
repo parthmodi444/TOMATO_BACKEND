@@ -2,7 +2,7 @@ class Config {}
 
 class DevelopmentConfig extends Config {
   public isDevelopment = true;
-  public connectionString = 'mongodb://mongo:ZXHpmA4ua9NwpOb977jn@containers-us-west-181.railway.app:8076/online-market';
+  public connectionString = 'mongodb+srv://admin-parth:Test123@cluster0.yql9fsn.mongodb.net/online-market';
 }
 
 class ProductionConfig extends Config {
