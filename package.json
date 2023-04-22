@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon --exec ts-node src/app.ts"
   },
-  "author": "Omri Ben Shalom",
+  "author": "Parth Modi",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
